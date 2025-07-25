@@ -20,6 +20,14 @@ A simple timer with start, pause and stop button to learn how to use activity li
 * Finish the Setup:
 Click Finish to create the project. Android Studio will set up the necessary files and dependencies.
 
+### Set Up Android Emulator or Physical Device
+Ensure ANDROID_HOME is set
+
+## (Optional) Run via Android Studio 
+1. Open Android Studio.
+2. Open your project.
+3. Choose the target device (emulator/phone).
+4. Click Run.
 
 ## ScreenShot
 ![Stopwatch](https://github.com/user-attachments/assets/bdf0f27c-294f-42fe-84c7-029a675ecf4f)
